@@ -1,0 +1,41 @@
+.sidebar {
+    height: 1000px;
+}
+.content .row1 {
+    width: 100%;
+    float: left;
+}
+.content .row1 .col1{
+    width: 35%;
+    float: left;
+    margin-left: 100px;
+}
+.content .row1 .col2{
+    width: 60%;
+    float: left;
+    margin-left: -70px;
+}
+.content .row1 .col2 .no{
+   padding-left: 0px;
+}
+.content .row1 .col2 .avatartbl img{
+    width: 50px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
+.content .row1 .col1 .bxh{
+    margin-left: 40px;
+}
+.content .row1 .col1 .avt {
+    height: 230px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
+.content .row1 .col1 .avatar{
+    text-align: center;
+    margin-left: -150px;
+}
+
+

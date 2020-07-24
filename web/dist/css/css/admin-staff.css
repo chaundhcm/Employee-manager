@@ -1,0 +1,20 @@
+.insert-row1{
+    width: 100%;
+}
+.insert-col1{
+    width: 40%;
+    float:left;
+}
+.insert-col2{
+    width: 40%;
+    float:right;
+}
+form{
+    margin: 10px;
+}
+lable .nameid{
+    color:red;
+}
+.chau{
+    color:red;
+}
